@@ -1,4 +1,5 @@
 using bushcraftAPI.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace bushcraftAPI.Context{
@@ -10,11 +11,14 @@ namespace bushcraftAPI.Context{
         {
         }
 
-        public DbSet<PostModel> Posts { get; set; }
-        public DbSet<CommentModel> Comments { get; set; }
-        public DbSet<TagModel> Tags { get; set; }
+        public DbSet<PostModel?> Posts { get; set; }
+        public DbSet<CommentModel?> Comments { get; set; }
+        public DbSet<CategoryModel?> Categories { get; set; }
+        public DbSet<TagModel?> Tags { get; set; }
         public DbSet<PostTagModel> PostTags { get; set; }
         public DbSet<PostCategoryModel> PostCategories { get; set; }
         public DbSet<PostCommentModel> PostComments { get; set; }
+        public DbSet<IdentityUser> Users { get; set; }
+        public DbSet<IdentityRole> Roles { get; set; }
     }
 }
