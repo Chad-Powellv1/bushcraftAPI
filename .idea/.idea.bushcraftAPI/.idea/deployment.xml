@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Loki" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Loki">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/bushcraftAPI.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/bushcraftAPI.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Properties/launchSettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/obj/Debug/net7.0/bushcraftAPI.GlobalUsings.g.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/obj/Debug/net7.0/bushcraftAPI.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/obj/Debug/net7.0/bushcraftAPI.GeneratedMSBuildEditorConfig.editorconfig" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/appsettings.Development.json" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/appsettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/../../Program Files/dotnet/sdk/7.0.102/Sdks/Microsoft.NET.Sdk/analyzers/build/config/analysislevel_7_default.editorconfig" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Context/BlogContext.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Models/BaseEntityModel.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Models/CategoryModel.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Models/CommentModel.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Models/LoginViewModel.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Models/PostCategoryModel.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Models/PostCommentModel.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Models/PostModel.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Models/PostTagModel.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Models/RegisterViewModel.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Models/RoleModel.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Models/TagModel.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Models/UserModel.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Repository/IPostRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Repository/ICategoryRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Repository/ICommentRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Repository/ITagRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Repository/IUserRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Repository/IRoleRepository.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Controllers/PostController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Migrations/20230301030608_Initial.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Migrations/BlogContextModelSnapshot.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Migrations/20230301030608_Initial.Designer.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Logs/log.txt" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Interface/TagInterface.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Interface/CategoryInterface.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Migrations/20230301033554_2.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Migrations/20230301033554_2.Designer.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Interface/CommentInterface.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Interface/PostInterface.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Interface/UserInterface.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Interface/RoleInterface.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Controllers/TagController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Controllers/CommentController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Controllers/CategoryController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Controllers/LoginController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Controllers/RegisterController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Migrations/20230301063558_3.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/bushcraftAPI/Migrations/20230301063558_3.Designer.cs" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

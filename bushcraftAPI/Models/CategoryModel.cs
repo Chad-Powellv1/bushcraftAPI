@@ -3,7 +3,7 @@ namespace bushcraftAPI.Models{
     /// This class is used to represent a Post category,
     /// and holds the properties of a category.
     /// </summary>
-    public class CategoryModel{
+    public class CategoryModel : BaseEntityModel{
         public string Title { get; set; } = null!;
         public string Description { get; set; } = null!;
         public string Slug { get; set; } = null!;
