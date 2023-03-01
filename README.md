@@ -1,6 +1,6 @@
 ﻿# bushcraftAPI
  
  
-![DB Image](/assets/blog.png)
+![DB Image]((relative%20path/assets/blog.png)
  
 
