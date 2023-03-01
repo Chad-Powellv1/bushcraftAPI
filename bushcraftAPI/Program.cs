@@ -1,3 +1,5 @@
+using bushcraftAPI.Context;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using Serilog.Core;
 using Serilog;
@@ -16,6 +18,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+// Add database context
+builder.Services.AddDbContext<BlogContext>(options =>
+    options.UseNpgsql(configuration.GetConnectionString("DefaultConnection")));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 // Add logging

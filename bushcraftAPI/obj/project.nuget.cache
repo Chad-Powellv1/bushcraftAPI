@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bHbey4rg6sa267qF/LrFzoI2jlZWq5G4lHLLojcloy+33f+H9GaYbVBoBgazF4h+HwHgJ+70i1Hwg7aYRy7PEA==",
+  "dgSpecHash": "xkamRXazY06OSZsm+U+h0UVEgEpoUI6k7EywlfjV5Ub9fxyU5AJPEmhr5MqIYHANESvqs+ZAS7kVZzE0/nPlbw==",
   "success": true,
   "projectFilePath": "C:\\dev\\bushcraftAPI\\bushcraftAPI\\bushcraftAPI.csproj",
   "expectedPackageFiles": [
@@ -70,6 +70,7 @@
     "C:\\Users\\chada\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
     "C:\\Users\\chada\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
     "C:\\Users\\chada\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
+    "C:\\Users\\chada\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\chada\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.1\\system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
     "C:\\Users\\chada\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "C:\\Users\\chada\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
